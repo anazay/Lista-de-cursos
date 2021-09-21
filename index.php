@@ -13,6 +13,7 @@
         <li>CSS</li>
         <li>PHP</li>
         <li>GIT</li>
+        <li>JAVA</li>
     </ul>
 </body>
 </html>
