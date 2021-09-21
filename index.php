@@ -15,6 +15,7 @@
         <li>GIT</li>
         <li>JAVA</li>
         <li>MYSQL</li>
+        <li>C++</li>
     </ul>
 </body>
 </html>
