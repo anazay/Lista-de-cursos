@@ -8,7 +8,7 @@
 </head>
 <body>
     <ul>
-        <li>Java script</li>
+        <li>JAVA SCRIPT 2017</li>
         <li>HTML</li>
         <li>CSS</li>
         <li>PHP</li>
