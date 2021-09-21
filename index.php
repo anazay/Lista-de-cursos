@@ -12,6 +12,7 @@
         <li>HTML</li>
         <li>CSS</li>
         <li>PHP</li>
+        <li>GIT</li>
     </ul>
 </body>
 </html>
