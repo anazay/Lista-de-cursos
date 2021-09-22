@@ -13,6 +13,7 @@
         <li>CSS</li>
         <li>PHP</li>
         <li>JOSÉ</li>
+        <li>PEDRO</li>
     </ul>
 </body>
 </html>
