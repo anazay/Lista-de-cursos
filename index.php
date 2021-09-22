@@ -12,10 +12,9 @@
         <li>HTML</li>
         <li>CSS</li>
         <li>PHP</li>
-        <li>GIT</li>
-        <li>JAVA</li>
-        <li>MYSQL</li>
-        <li>C++</li>
+        <li>JOSÉ</li>
+        <li>PEDRO</li>
+        <li>ANDRÉ</li>
     </ul>
 </body>
 </html>
