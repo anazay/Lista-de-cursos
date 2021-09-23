@@ -7,6 +7,7 @@
     <title>Cursos da Alura</title>
 </head>
 <body>
+    <h1>Cursos e nomes</h1>
     <ul>
         <li>JAVA SCRIPT ES6</li>
         <li>HTML</li>
