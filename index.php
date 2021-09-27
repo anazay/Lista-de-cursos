@@ -19,6 +19,7 @@
         <li>ANDRÉ</li>
         <li>VERDE</li>
         <li>JÚLIO</li>
+        <li>ADELAR BERTUSSI</li>
     </ul>
 </body>
 </html>
